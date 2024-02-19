@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "First Blog Post json file",
+      "category": "Technology",
+      "content": "This is the content of the first blog post."
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "category": "Travel",
+      "content": "This is the content of the second blog post."
+    },
+    {
+      "id": 3,
+      "title": "Third Blog Post",
+      "category": "Food",
+      "content": "This is the content of the third blog post."
+    },
+    {
+      "id": 4,
+      "title": "Fourth Blog Post",
+      "category": "Technology",
+      "content": "This is the content of the fourth blog post."
+    },
+    {
+      "id": 5,
+      "title": "Fifth Blog Post",
+      "category": "Travel",
+      "content": "This is the content of the fifth blog post."
+    },
+    {
+      "id": 6,
+      "title": "Sixth Blog Post",
+      "category": "Food",
+      "content": "This is the content of the sixth blog post."
+    },
+    {
+      "id": 7,
+      "title": "Seventh Blog Post",
+      "category": "Technology",
+      "content": "This is the content of the seventh blog post."
+    },
+    {
+      "id": 8,
+      "title": "Eighth Blog Post",
+      "category": "Travel",
+      "content": "This is the content of the eighth blog post."
+    },
+    {
+      "id": 9,
+      "title": "Ninth Blog Post",
+      "category": "Food",
+      "content": "This is the content of the ninth blog post."
+    },
+    {
+      "id": 10,
+      "title": "Tenth Blog Post",
+      "category": "Technology",
+      "content": "This is the content of the tenth blog post."
+    }
+  ]
+  
